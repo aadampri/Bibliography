@@ -1,0 +1,1 @@
+type "com\\math.com.bib","article\\math.article.bib","notes\\math.notes.bib","book\\math.book.bib" > math.bib
